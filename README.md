@@ -1,1 +1,2 @@
-Aplikacja konsolowa do zarządzania rekordami w bazie danych (CRUD). Użyto JDBC i Hibernate.
+Console application for managing records in database (CRUD). 
+I used JDBC and Hibernate framework.
